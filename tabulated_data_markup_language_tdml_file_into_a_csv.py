@@ -1,6 +1,6 @@
 # create data
 def write_data_to_tdml_file(filename, data):
-    with open("filename", "w") as f:
+    with open(filename, "w") as f:
         f.write(data)
 
 files_tdml = ["f1.tdml", "f2.tdml", "f3.tdml"] 
