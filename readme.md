@@ -6,7 +6,7 @@ Instead of spaces (which can appear inside data), we'll use a custom delimiter s
 
 🧪 Example Usage: ![method_01](method_01/tdml_file_into_csv.py)
 
-<img src="method_01/data.txt.png" alt="data.txt" style="width:320px;height:120px;"> ➡️➡️➡️ <img src="method_01/data.csv.png" alt="data.csv" style="width:320px;height:120px;">
+<img src="method_01/data.txt.png" alt="data.txt" style="width:320px;height:100px;"> ➡️➡️➡️ <img src="method_01/data.csv.png" alt="data.csv" style="width:320px;height:100px;">
 
 <hr>
 
