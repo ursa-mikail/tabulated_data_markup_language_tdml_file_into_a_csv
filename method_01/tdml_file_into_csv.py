@@ -8,7 +8,7 @@ def txt_to_csv(txt_file_path, csv_file_path, delimiter='|'):
         writer = csv.writer(csv_file)
         for line in lines:
             row = line.strip().split(delimiter)
-            writer.writerow(row)
+            writer.writerow(row)        # csv writer may not close the cell with ',', hence, we may require a formatter later.
 
 def extract_from_csv(csv_file_path, mode='row', index=0):
     data = []
